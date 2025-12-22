@@ -1,0 +1,2 @@
+[26-Mar-2021 03:27:40 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\API\UserController::get_kategori_artikel() in /home/pakp6596/public_html/api-user/app/Http/Controllers/API/UserController.php on line 77
+[02-Jul-2021 11:51:07 UTC] PHP Fatal error:  Cannot use [] for reading in /home/pakp6596/public_html/api-user/app/Http/Controllers/API/AuthController.php on line 79
