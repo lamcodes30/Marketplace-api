@@ -2,6 +2,8 @@
 
 A comprehensive REST API built with Laravel 8 for a multi-vendor catering and marketplace platform. This API manages users, catering services, menus, orders, payments, and more.
 
+**Created**: January - June 2021
+
 ## Table of Contents
 
 - [Features](#features)
